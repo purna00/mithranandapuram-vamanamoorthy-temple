@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mithranandapuram Vamanamoorthy Temple</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="welcomeScreen">
+    <div class="welcome-box">
+        <h1>🙏 Welcome 🙏</h1>
+        <h2>Mithranandapuram Vamanamoorthy Temple</h2>
+        <p>Click below to enter the temple.</p>
+
+        <button onclick="enterTemple()">
+            🌸 Enter Temple 🌸
+        </button>
+    </div>
+</div>
+
+<!-- Loading Screen -->
+<div id="loader">
+    <div class="loader-content">
+        <h1>🛕</h1>
+        <h2>Mithranandapuram</h2>
+        <p>Loading...</p>
+    </div>
+</div>
+
+<!-- HEADER START -->
+<header>
+
+    <!-- Temple Logo -->
+    <div class="header-logo">
+        <img src="Logo.png.png" alt="Temple Logo">
+    </div>
+
+    <!-- Top Design -->
+    <div class="title-design">
+        <span class="line"></span>
+        <span class="symbol">❦❦</span>
+        <span class="line"></span>
+    </div>
+
+    <!-- Temple Name -->
+    <h1 class="temple-title">
+        MITHRANANDAPURAM VAMANAMOORTHY TEMPLE
+    </h1>
+
+    <!-- Bottom Design -->
+    <div class="title-design">
+        <span class="line"></span>
+        <span class="symbol">❦❦</span>
+        <span class="line"></span>
+    </div>
+    <nav>
+       <a href="#home">Home</a>
+       <a href="#about">About</a>
+       <a href="#gallery">Gallery</a>
+       <a href="#festivals">Festivals</a>
+       <a href="#donation">Donation</a>
+       <a href="#services">Services</a>
+       <a href="#booking">Booking</a>
+       <a href="#announcements">Announcements</a>
+       <a href="#faq">FAQ</a>
+       <a href="#events">Events</a>
+       <a href="#contact">Contact</a>
+    </nav>
+</header>
+<section id="home" class="hero">
+
+    <!-- Permanent Main Image -->
+    <img src="temple.jpg.jpg" alt="Main Temple" class="hero-image">
+
+    <!-- Slider Images -->
+    <div class="slider">
+        <img class="slide active" src="temple.jpg_1.jpg" alt="Temple 2">
+        <img class="slide" src="temple.jpg_2.jpg" alt="Temple 3">
+        <img class="slide" src="temple.jpg_3.jpg" alt="Temple 4">
+    </div>
+
+    <h2>Welcome to the Divine Temple</h2>
+
+    <p>Experience Peace, Devotion and Spiritual Bliss</p>
+
+    <button onclick="donateNow()">Donate Now</button>
+
+    <p id="dateTime"></p>
+
+</section>
+
+<section id="about" class="about">
+    <h2>About the Temple</h2>
+    <p>
+        Mithranandapuram Vamanamoorthy Temple is a sacred place of worship,
+        known for its peaceful atmosphere and spiritual significance.
+        Devotees visit the temple to seek blessings and experience divine grace.
+    </p>
+</section>
+
+<!-- Temple History -->
+
+<section id="history" class="history">
+
+    <h2>Temple History</h2>
+
+    <div class="history-box">
+
+        <p>
+            Mithranandapuram Vamanamoorthy Temple is an ancient and sacred temple dedicated to Lord Vamanamoorthy, an incarnation of Lord Vishnu. The temple has been a center of devotion, spirituality, and tradition for generations. Devotees from different places visit the temple to seek divine blessings, participate in festivals, and experience its peaceful atmosphere. The temple is renowned for its rich heritage, traditional rituals, and annual celebrations that strengthen the spiritual bond among devotees.
+        </p>
+
+    </div>
+
+</section>
+
+<section id="gallery" class="gallery">
+    <h2>Temple Gallery</h2>
+
+    <div class="gallery-container">
+        <img src="temple . jpg.jpg.jpg" alt="Temple" class="gallery-img">
+        <img src="temple . jpg.jpg.jpg" alt="Temple" class="gallery-img">
+        <img src="temple . jpg.jpg.jpg" alt="Temple" class="gallery-img">
+    </div>
+</section>
+
+<!-- Lightbox -->
+
+<div id="lightbox">
+
+    <span id="closeBtn">&times;</span>
+
+    <img id="lightbox-img">
+
+</div>
+</section>
+<section id="festivals" class="festivals">
+    <h2>Temple Festivals</h2>
+
+    <div class="festival-card">
+        <h3>Brahmotsavam</h3>
+        <p>The annual Brahmotsavam is celebrated with great devotion and attracts thousands of devotees.</p>
+    </div>
+
+    <div class="festival-card">
+        <h3>Vaikuntha Ekadashi</h3>
+        <p>Special prayers and darshan are conducted on this auspicious day.</p>
+    </div>
+
+    <div class="festival-card">
+        <h3>Sri Rama Navami</h3>
+        <p>The temple celebrates Sri Rama Navami with special poojas and cultural programs.</p>
+    </div>
+</section>
+<section id="timings" class="timings">
+    <h2>Temple Timings</h2>
+
+    <table>
+        <tr>
+            <th>Day</th>
+            <th>Morning</th>
+            <th>Evening</th>
+        </tr>
+
+        <tr>
+            <td>Monday - Friday</td>
+            <td>6:00 AM - 12:00 PM</td>
+            <td>4:00 PM - 8:00 PM</td>
+        </tr>
+
+        <tr>
+            <td>Saturday</td>
+            <td>5:30 AM - 12:30 PM</td>
+            <td>4:00 PM - 9:00 PM</td>
+        </tr>
+
+        <tr>
+            <td>Sunday</td>
+            <td>5:00 AM - 1:00 PM</td>
+            <td>4:00 PM - 9:30 PM</td>
+        </tr>
+    </table>
+</section>
+<section id="donation" class="donation">
+    <h2>Temple Donation</h2>
+
+    <p>Your generous donations help us maintain the temple and organize spiritual activities.</p>
+
+    <div class="donation-box">
+        <h3>Bank Details</h3>
+
+        <p><strong>Account Name:</strong> Mithranandapuram Vamanamoorthy Temple Trust</p>
+        <p><strong>Bank:</strong> State Bank of India</p>
+        <p><strong>A/C No:</strong> 123456789012</p>
+        <p><strong>IFSC:</strong> SBIN0001234</p>
+
+        <button>Donate Now</button>
+    </div>
+</section>
+<section id="services" class="services">
+    <h2>Temple Services</h2>
+
+    <div class="service-box">
+        <h3>🪔 Daily Pooja</h3>
+        <p>Morning and Evening daily pooja for devotees.</p>
+    </div>
+
+    <div class="service-box">
+        <h3>🙏 Archana</h3>
+        <p>Special Archana performed in the devotee's name.</p>
+    </div>
+
+    <div class="service-box">
+        <h3>🌸 Abhishekam</h3>
+        <p>Special Abhishekam on festival and auspicious days.</p>
+    </div>
+
+    <div class="service-box">
+        <h3>🍛 Annadanam</h3>
+        <p>Free prasadam and Annadanam for devotees.</p>
+    </div>
+</section>
+<section id="booking" class="booking">
+    <h2>Temple Booking</h2>
+
+    <form id="bookingForm">
+        <input type="text" placeholder="Full Name" required>
+
+        <input type="tel" placeholder="Phone Number" required>
+
+        <select required>
+            <option value="">Select Service</option>
+            <option>Archana</option>
+            <option>Abhishekam</option>
+            <option>Annadanam</option>
+            <option>Special Darshan</option>
+        </select>
+
+        <input type="date" required>
+
+        <button type="submit">Book Now</button>
+    </form>
+</section>
+<section id="announcements" class="announcements">
+    <h2>Temple Announcements</h2>
+
+    <marquee behavior="scroll" direction="left">
+        🙏 Special Pooja every Saturday | 🌸 Annadanam on every Sunday | 🎉 Brahmotsavam starts from 15th August | 🛕 All devotees are welcome.
+    </marquee>
+</section>
+<section id="faq" class="faq">
+    <h2>Frequently Asked Questions</h2>
+
+    <details>
+        <summary>🛕 What are the temple opening hours?</summary>
+        <p>Morning: 6:00 AM – 12:00 PM<br>Evening: 4:00 PM – 8:00 PM</p>
+    </details>
+
+    <details>
+        <summary>🙏 How can I book Archana?</summary>
+        <p>You can use the Temple Booking section on this website.</p>
+    </details>
+
+    <details>
+        <summary>💰 How can I donate?</summary>
+        <p>You can donate through the Temple Donation section or at the temple office.</p>
+    </details>
+
+    <details>
+        <summary>📞 How can I contact the temple?</summary>
+        <p>Use the Contact section or call the temple phone number.</p>
+    </details>
+</section>
+<section id="events" class="events">
+    <h2>Upcoming Temple Events</h2>
+
+    <table>
+        <tr>
+            <th>Date</th>
+            <th>Event</th>
+        </tr>
+
+        <tr>
+            <td>15 August 2026</td>
+            <td>Brahmotsavam</td>
+        </tr>
+
+        <tr>
+            <td>22 August 2026</td>
+            <td>Krishna Janmashtami</td>
+        </tr>
+
+        <tr>
+            <td>5 September 2026</td>
+            <td>Ganesh Chaturthi</td>
+        </tr>
+
+        <tr>
+            <td>2 October 2026</td>
+            <td>Navaratri Celebrations</td>
+        </tr>
+    </table>
+</section>
+<section id="contact" class="contact">
+    <h2>Contact Us</h2>
+
+    <p><strong>Temple:</strong> Mithranandapuram Vamanamoorthy Temple</p>
+    <p><strong>Location:</strong> Mithranandapuram, Andhra Pradesh</p>
+    <p><strong>Phone:</strong> +91 9876543210</p>
+    <p><strong>Email:</strong> info@vamanamoorthytemple.com</p>
+    <h3>Temple Location</h3>
+<iframe
+    src="https://www.google.com/maps?q=Mithranandapuram+Vamanamoorthy+Temple&output=embed"
+    width="100%"
+    height="300"
+    style="border:0;"
+    allowfullscreen=""
+    loading="lazy">
+</iframe>
+<h3>Send Us a Message</h3>
+<form>
+    <input type="text" placeholder="Your Name" required><br><br>
+
+    <input type="email" placeholder="Your Email" required><br><br>
+
+    <textarea placeholder="Your Message" rows="5" required></textarea><br><br>
+
+    <button type="submit">Send Message</button>
+</form>
+</section>
+
+<footer>
+    <p>&copy; 2026 Mithranandapuram Vamanamoorthy Temple. All Rights Reserved.</p>
+</footer>
+
+<button id="topBtn" onclick="scrollToTop()">
+    ↑
+</button>
+
+<script src="script.js"></script>
+<a href="https://wa.me/919876543210"
+   class="whatsapp"
+   target="_blank">
+
+    <img src="whatsapp.jpg.jpg" alt="WhatsApp">
+
+</a>
+<audio id="bgMusic" autoplay loop>
+    <source src="temple-music.mp3.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+</audio>
+
+<button id="musicBtn" onclick="toggleMusic()">
+    🎵 Play Music
+</button>
+</body>
+</html>
