@@ -9,7 +9,7 @@
 </h2>
 
 <p align="center">
-  <strong>A responsive temple website built with HTML5, CSS3 and JavaScript</strong>
+  <strong>A modern, responsive temple website designed to bring heritage and tradition to the digital world.</strong>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
   </a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://github.com/purna00/mithranandapuram-vamanamoorthy-temple">
-    💻 Source Code
+    💻 GitHub Repository
   </a>
 </p>
 
@@ -34,145 +34,193 @@
 
 ---
 
-## ✨ About the Project
+## 🌟 Project Highlights
 
-**Sri Mithranandapuram Vamanamoorthy Temple Website** is a modern, responsive
-web experience created to provide visitors and devotees with an accessible
-digital platform for exploring temple information, heritage, festivals,
-photographs, services and contact details.
-
-The project combines **traditional temple aesthetics with modern web design**
-to create an elegant and user-friendly experience across desktop, tablet and
-mobile devices.
-
-> **Preserving Our Heritage, Sharing Our Culture.**
-
----
-
-## 🛕 Project Vision
-
-The goal of this project is to bring the temple's information and cultural
-identity to the digital world through a visually engaging website.
-
-The website focuses on:
-
-- 🏛️ Preserving temple heritage digitally
-- 📜 Presenting historical information
-- 🎉 Sharing festivals and events
-- 📸 Showcasing temple photographs
-- 🙏 Providing useful visitor information
-- 📞 Making contact information easily accessible
-- 📱 Providing a responsive experience on modern devices
+| Feature | Description |
+|---|---|
+| 🛕 Temple Website | Dedicated digital presence for Sri Mithranandapuram Vamanamoorthy Temple |
+| 📜 Heritage | Presents temple-related history and cultural information |
+| 🎉 Festivals | Provides information about festivals and religious occasions |
+| 📸 Gallery | Visual showcase of temple photographs |
+| 🎵 Temple Music | Integrated temple-related audio experience |
+| 📱 Responsive UI | Designed for desktop, tablet and mobile devices |
+| 🎨 Premium Design | Traditional aesthetics combined with modern web design |
+| ⚡ Lightweight | Built using pure HTML, CSS and JavaScript |
+| 🚀 Deployment | Hosted using GitHub Pages |
 
 ---
 
-# 🌟 Key Features
+# 🛕 About the Project
 
-### 🏛️ Temple Information
+**Sri Mithranandapuram Vamanamoorthy Temple Website** is a responsive front-end web project created to provide devotees, visitors and the wider community with an accessible digital platform for exploring temple-related information.
 
-A dedicated digital space for presenting important information about the
-temple and its cultural significance.
+The website combines **traditional South Indian temple aesthetics with modern web design principles**, creating a visual experience that respects the cultural identity of the temple while remaining easy to navigate.
 
-### 📜 Temple History
+The project focuses on presenting:
 
-A section designed to communicate the history and heritage associated with
-the temple.
+- 🛕 Temple information
+- 📜 History and heritage
+- 🎉 Festivals and events
+- 📸 Temple photography
+- 🙏 Visitor information
+- 🎵 Temple music
+- 📞 Contact information
+- 📱 Responsive accessibility
 
-### 🎉 Festivals & Events
+> **"Preserving Heritage. Connecting Devotees. Sharing Tradition."**
 
-Visitors can explore information related to temple festivals and important
-religious occasions.
+---
 
-### 📸 Photo Gallery
+# 🎯 Project Vision
 
-A visual gallery showcasing photographs of the temple and its surroundings.
+The vision behind this project is to create a **digital identity for the temple** while making important information easier to discover and access.
 
-### 🙏 Online Services
+Instead of treating the website as a simple collection of pages, the project focuses on creating an immersive digital experience inspired by the spiritual and architectural character of the temple.
 
-A dedicated section for presenting available temple-related services and
-information.
+### Core Objectives
 
-### 📞 Contact Information
+- Digitally present temple information
+- Preserve cultural and historical content
+- Create a visually engaging experience
+- Make information accessible across devices
+- Showcase temple photographs
+- Provide convenient visitor information
+- Integrate temple-related audio
+- Build a lightweight and maintainable website
 
-Provides visitors with convenient access to temple contact details.
+---
 
-### 🎵 Temple Music
+# ✨ Key Features
 
-The website integrates temple-related audio to create a more immersive
-experience.
+## 🏛️ Temple Information
 
-### 📱 Responsive Design
+A dedicated digital space for introducing the temple and presenting relevant information to visitors and devotees.
 
-The interface adapts to different screen sizes including:
+---
 
-- Desktop
-- Laptop
-- Tablet
-- Mobile
+## 📜 Temple History
 
-### ⚡ Lightweight Architecture
+The website provides a dedicated area for presenting historical and heritage-related information.
 
-The project uses standard front-end technologies without requiring a heavy
-backend or framework, making the website lightweight and easy to deploy.
+This helps preserve important cultural information in a digital format.
+
+---
+
+## 🎉 Festivals & Events
+
+Visitors can explore information related to temple festivals and important religious occasions.
+
+The section is designed to make festival-related information easier to discover.
+
+---
+
+## 📸 Photo Gallery
+
+A visual gallery presents photographs of the temple and its surroundings.
+
+The gallery adds a visual dimension to the website and allows visitors to explore the temple digitally.
+
+---
+
+## 🙏 Temple Services
+
+The website provides a dedicated area for presenting temple-related services and useful information for visitors.
+
+---
+
+## 🎵 Temple Music
+
+Temple-related audio is integrated into the website to create a more immersive experience.
+
+---
+
+## 📞 Contact Information
+
+Important contact and visitor-related information is presented in an accessible format.
+
+---
+
+## 📱 Responsive Design
+
+The interface is designed to adapt across multiple screen sizes.
+
+### Supported Devices
+
+- 💻 Desktop
+- 🖥️ Laptop
+- 📱 Mobile
+- 📲 Tablet
+
+The responsive layout improves accessibility and usability across modern devices.
 
 ---
 
 # 🎨 Design Philosophy
 
-The visual design combines **traditional South Indian temple aesthetics with
-modern UI principles**.
+The website combines **traditional temple aesthetics with modern UI principles**.
 
-### Design Elements
+### Visual Direction
 
-- 🟤 Deep traditional tones
+- 🟤 Traditional Indian-inspired tones
 - 🟡 Gold-inspired highlights
 - 🛕 Temple architecture imagery
-- 🙏 Vaishnavite-inspired visual elements
+- 🙏 Spiritual visual elements
 - ✨ Elegant typography
 - 📐 Structured layouts
-- 📱 Mobile-friendly interface
+- 🎨 Clean visual hierarchy
+- 📱 Responsive components
 
-The objective is to maintain the spiritual identity of the temple while
-providing a modern digital experience.
+The design goal is to create a website that feels **respectful, elegant, modern and culturally connected**.
 
 ---
 
 # 🧰 Technology Stack
 
-| Technology | Usage |
-|------------|-------|
-| **HTML5** | Website structure and semantic content |
+| Technology | Purpose |
+|---|---|
+| **HTML5** | Semantic website structure |
 | **CSS3** | Styling, layouts, animations and responsive design |
 | **JavaScript** | Interactive functionality |
 | **Git** | Version control |
-| **GitHub** | Source code hosting |
-| **GitHub Pages** | Website deployment |
+| **GitHub** | Source code management |
+| **GitHub Pages** | Website hosting and deployment |
 
 ---
 
 # 🏗️ Project Architecture
 
 ```text
-                    ┌─────────────────────┐
-                    │     Web Browser     │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │      index.html     │
-                    │  Website Structure  │
-                    └──────────┬──────────┘
-                               │
-                    ┌──────────▼──────────┐
-                    │      style.css      │
-                    │ UI & Responsive CSS │
-                    └──────────┬──────────┘
-                               │
-                    ┌──────────▼──────────┐
-                    │      script.js      │
-                    │    Interactivity    │
-                    └──────────┬──────────┘
-                               │
-                ┌──────────────┼──────────────┐
-                ▼              ▼              ▼
-          Temple Images   Temple Audio   Website Content
+                    ┌──────────────────────────┐
+                    │       Web Browser        │
+                    └────────────┬─────────────┘
+                                 │
+                                 ▼
+                    ┌──────────────────────────┐
+                    │        index.html        │
+                    │   Website Structure      │
+                    └────────────┬─────────────┘
+                                 │
+                                 ▼
+                    ┌──────────────────────────┐
+                    │        style.css         │
+                    │ UI • Layout • Responsive │
+                    └────────────┬─────────────┘
+                                 │
+                                 ▼
+                    ┌──────────────────────────┐
+                    │        script.js         │
+                    │   Website Interactions   │
+                    └────────────┬─────────────┘
+                                 │
+              ┌──────────────────┼──────────────────┐
+              │                  │                  │
+              ▼                  ▼                  ▼
+       Temple Images       Temple Audio       Web Content
+              │                  │                  │
+              └──────────────────┼──────────────────┘
+                                 │
+                                 ▼
+                    ┌──────────────────────────┐
+                    │     GitHub Pages         │
+                    │     Live Deployment      │
+                    └──────────────────────────┘
