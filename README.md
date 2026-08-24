@@ -1,7 +1,7 @@
 # 🛕 Sri Mithranandapuram Vamanamoorthy Temple
 
 <p align="center">
-  <img src="mithramandali_ai_banner.png" alt="Sri Mithranandapuram Vamanamoorthy Temple" width="100%">
+  <img src="mithramandali_ai_banner.png.png" alt="Sri Mithranandapuram Vamanamoorthy Temple" width="100%">
 </p>
 
 <h2 align="center">
